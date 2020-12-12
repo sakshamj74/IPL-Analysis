@@ -11,6 +11,9 @@
 ![Screenshot](screenshots/ss4.PNG)
 ![Screenshot](screenshots/ss5.PNG)
 ![Screenshot](screenshots/ss6.PNG)
+![Screenshot](screenshots/ss7.PNG)
+![Screenshot](screenshots/ss8.PNG)
+
 
 # Future Work:
 ### So far i have analysed only matches.csv.You can start contributing by doing some interesting analysis on "deliveries.csv" or analyse more "matches.csv" 
