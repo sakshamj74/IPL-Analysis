@@ -17,3 +17,8 @@
 
 # Future Work:
 ### So far i have analysed only matches.csv.You can start contributing by doing some interesting analysis on "deliveries.csv" or analyse more "matches.csv" 
+
+# Contributors: 
+<a href="https://github.com/sakshamj74/IPL-Analysis/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sakshamj74/IPL-Analysis" />
+</a>
