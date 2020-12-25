@@ -11,8 +11,8 @@
 ![Screenshot](screenshots/ss4.PNG)
 ![Screenshot](screenshots/ss5.PNG)
 ![Screenshot](screenshots/ss6.PNG)
-![Screenshot](screenshots/ss7.PNG)
-![Screenshot](screenshots/ss8.PNG)
+![Screenshot](screenshots/ss7.png)
+![Screenshot](screenshots/ss8.png)
 
 
 # Future Work:
