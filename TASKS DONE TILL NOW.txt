@@ -1,0 +1,83 @@
+Tasks done till now (files and folders' short description) :-
+
+-> .github 
+    - contains issue template
+    - contains pull request template
+
+-> Ipl Data
+   - contains deliveries.csv and matches.csv
+
+-> screenshots
+   - contains screenshots of some bar graphs of IPL stats 
+
+-> Analysis-Of-Two-Teams.ipynb
+
+   -Contains related analysis of MI vs CSK 
+
+-> Death Over Analysis.ipynb
+   
+   -Contains related analysis of death overs among all seasons of IPL
+      -> Batsmen with most runs, highest strike rate in various IPL seasons
+      -> Bowlers with most wickets,best economy in various IPL seasons
+
+->  Deliveries.ipynb
+
+	-Top wicket takers in history of IPL
+	-Highest team score in each season
+	-Analysis of few Batsmen like R. Sharma,D. Warner,etc
+	-Highest batsemn score in each season
+	-Number of wides bowled by bowlers
+
+->  Matches.ipynb
+		
+	-analysis regarding matches 
+	   - result(normal,tie,no result)
+	   - no. of wins by each team in whole IPL
+	   - no. of matches played in each stadium and related stuffs
+	   - Captain decision after toss and related stuffs
+	   - Most MoMs in IPL and related stuffs
+	   - Stadium wise analysis
+
+-> No. of matches played every season.ipynb
+
+    -Visualizing the number of matches played in every season
+
+-> NoBalls_bowled.ipynb
+
+   -list of all bowlers who have bowled a no-ball
+   -Counting the total number of no-balls bowled by the bowlers
+   -Top 10 bowlers who have bowled Most number of no-balls 
+   -Calculating the frequency of extra-runs scored on no-balls
+
+-> Strike_Rate.ipynb
+
+	-list of batsman, his total runs and number of balls he faced
+	-plot of players and it's Strike Rate who have played maximum number of balls of their best match
+	-These player have played less amount of balls so their Avg_SR is high in overs 16-20
+
+-> Teams Analysis that have played maximum finals.ipynb
+ 
+	- Analysis of teams that have played and won the maximum finals 
+
+-> Toss_Winners.ipynb
+	
+	- looking at number of toss wins and match wins
+	- analysis related to toss winners and match winners 
+
+-> first_innings_maxRuns.ipynb
+   
+   - plotting the bar graph of max runs done by each team in first innings
+
+-> first_over_mostWickets.ipynb
+ 
+   - Most Wickets by a Team in First Over and plotting it
+
+-> super_overs.ipynb
+   
+   - Total Runs given By a bowler in SuperOver and plotting it
+
+-> top_5_all_rounders.ipynb
+   
+   - find out top bowlers - counting most number of wickets and plotting it
+
+-> winning toss==winning match.ipynb
