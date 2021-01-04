@@ -1,5 +1,7 @@
 # IPL-Analysis
 
+![IPL-Analysis](https://socialify.git.ci/sakshamj74/IPL-Analysis/image?description=1&font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Light)
+
 [![Join the chat at https://gitter.im/sakshamj74/ipl-analysis](https://badges.gitter.im/sakshamj74/ipl-analysis.svg)](https://gitter.im/sakshamj74/ipl-analysis?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ### This repo has two data files matches.csv and deliveries.csv. Matches.csv have match by match data and Delivieries.csv have ball by ball data of each match.
