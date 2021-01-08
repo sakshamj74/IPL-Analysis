@@ -755,63 +755,63 @@ id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winn
 11413,2019,Visakhapatnam,08-05-2019,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,normal,0,Delhi Capitals,0,2,RR Pant,ACA-VDCA Stadium,,,
 11414,2019,Visakhapatnam,10-05-2019,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,6,F du Plessis,ACA-VDCA Stadium,Sundaram Ravi,Bruce Oxenford,Chettithody Shamshuddin
 11415,2019,Hyderabad,12-05-2019,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,normal,0,Mumbai Indians,1,0,JJ Bumrah,Rajiv Gandhi Intl. Cricket Stadium,Nitin Menon,Ian Gould,Nigel Llong
-1216492,2020,Abu Dhabi,19-09-2020,MI,CSK,CSK,field,normal,0,CSK,0,5,AT Rayudu,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Virender Sharma,Sundaram Ravi
-1216493,2020,Dubai (DSC),20-09-2020,DC,KXIP,KXIP,field,tie,0,DC,0,0,MP Stoinis,Dubai International Cricket Stadium,Anil Chaudhary,Nitin Menon,Paul Reiffel
-1216534,2020,Dubai (DSC),21-09-2020,SRH,RCB,SRH,field,normal,0,RCB,10,0,YS Chahal,Dubai International Cricket Stadium,Anil Dandekar,Nitin Menon,Anil Chaudhary
-1216496,2020,Sharjah,22-09-2020,RR,CSK,CSK,field,normal,0,RR,16,0,SV Samson,Sharjah Cricket Stadium,Chettithody Shamshuddin,Vineet Kulkarni,KN Ananthapadmanabhan
-1216508,2020,Abu Dhabi,23-09-2020,KKR,MI,KKR,field,normal,0,MI,49,0,RG Sharma,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Sundaram Ravi,Virender Sharma
-1216510,2020,Dubai (DSC),24-09-2020,KXIP,RCB,RCB,field,normal,0,KXIP,97,0,KL Rahul,Dubai International Cricket Stadium,Anil Chaudhary,Paul Reiffel,Nitin Menon
-1216539,2020,Dubai (DSC),25-09-2020,CSK,DC,CSK,field,normal,0,DC,44,0,P Shaw,Dubai International Cricket Stadium,KN Ananthapadmanabhan,Richard Illingworth,Krishnamachari Srinivasan
-1216545,2020,Abu Dhabi,26-09-2020,KKR,SRH,SRH,bat,normal,0,KKR,0,7,Shubman Gill,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Virender Sharma,Sundaram Ravi
-1216527,2020,Sharjah,27-09-2020,RR,KXIP,RR,field,normal,0,RR,0,4,SV Samson,Sharjah Cricket Stadium,Richard Illingworth,Krishnamachari Srinivasan,Chettithody Shamshuddin
-1216547,2020,Dubai (DSC),28-09-2020,RCB,MI,MI,field,tie,0,RCB,0,0,AB de Villiers,Dubai International Cricket Stadium,Nitin Menon,Paul Reiffel,Anil Chaudhary
-1216532,2020,Abu Dhabi,29-09-2020,DC,SRH,DC,field,normal,0,SRH,15,0,Rashid Khan,"Sheikh Zayed Stadium, Abu Dhabi",Virender Sharma,Sundaram Ravi,Chris Gaffaney
-1216504,2020,Dubai (DSC),30-09-2020,RR,KKR,RR,field,normal,0,KKR,37,0,Shivam Mavi,Dubai International Cricket Stadium,KN Ananthapadmanabhan,Chettithody Shamshuddin,Vineet Kulkarni
-1216503,2020,Abu Dhabi,10-01-2020,KXIP,MI,KXIP,field,normal,0,MI,48,0,KA Pollard,"Sheikh Zayed Stadium, Abu Dhabi",Virender Sharma,Sundaram Ravi,Ulhas Gandhe
-1216516,2020,Dubai (DSC),10-02-2020,CSK,SRH,SRH,bat,normal,0,SRH,7,0,Priyam Garg,Dubai International Cricket Stadium,Anil Chaudhary,Paul Reiffel,Yeshwant Barde
-1216514,2020,Abu Dhabi,10-03-2020,RCB,RR,RR,bat,normal,0,RCB,0,8,YS Chahal,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Sundaram Ravi,Pashchim Pathak
-1216515,2020,Sharjah,10-03-2020,DC,KKR,KKR,field,normal,0,DC,18,0,SS Iyer,Sharjah Cricket Stadium,Vineet Kulkarni,Richard Illingworth,KN Ananthapadmanabhan
-1216538,2020,Sharjah,10-04-2020,MI,SRH,MI,bat,normal,0,MI,34,0,TA Boult,Sharjah Cricket Stadium,KN Ananthapadmanabhan,Richard Illingworth,Krishnamachari Srinivasan
-1216513,2020,Dubai (DSC),10-04-2020,KXIP,CSK,KXIP,bat,normal,0,CSK,0,10,SR Watson,Dubai International Cricket Stadium,Anil Dandekar,Nitin Menon,Paul Reiffel
-1216519,2020,Dubai (DSC),10-05-2020,RCB,DC,RCB,field,normal,0,DC,59,0,AR  Patel,Dubai International Cricket Stadium,Nitin Menon,Yeshwant Barde,Paul Reiffel
-1216511,2020,Abu Dhabi,10-06-2020,MI,RR,MI,bat,normal,0,MI,57,0,AS Yadav,"Sheikh Zayed Stadium, Abu Dhabi",Virender Sharma,Sundaram Ravi,Chris Gaffaney
-1216501,2020,Abu Dhabi,10-07-2020,KKR,CSK,KKR,bat,normal,0,KKR,10,0,RA Tripathi,"Sheikh Zayed Stadium, Abu Dhabi",KN Ananthapadmanabhan,Richard Illingworth,Chettithody Shamshuddin
-1216542,2020,Dubai (DSC),10-08-2020,SRH,KXIP,SRH,bat,normal,0,SRH,69,0,J Bairstow,Dubai International Cricket Stadium,Anil Chaudhary,Nitin Menon,Yeshwant Barde
-1216500,2020,Sharjah,10-09-2020,RR,DC,RR,field,normal,0,DC,46,0,R Ashwin,Sharjah Cricket Stadium,KN Ananthapadmanabhan,Chettithody Shamshuddin,Vineet Kulkarni
-1216523,2020,Abu Dhabi,10-10-2020,KXIP,KKR,KKR,bat,normal,0,KKR,2,0,KD Karthik,"Sheikh Zayed Stadium, Abu Dhabi",Ulhas Gandhe,Chris Gaffaney,Virender Sharma
-1216525,2020,Dubai (DSC),10-10-2020,CSK,RCB,RCB,bat,normal,0,RCB,37,0,V Kohli,Dubai International Cricket Stadium,Anil Chaudhary,Paul Reiffel,Anil Dandekar
-1216507,2020,Dubai (DSC),10-11-2020,SRH,RR,SRH,bat,normal,0,RR,0,5,R Tewatia,Dubai International Cricket Stadium,Yeshwant Barde,Paul Reiffel,Nitin Menon
-1216529,2020,Abu Dhabi,10-11-2020,MI,DC,DC,bat,normal,0,MI,0,5,Q de Kock,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Sundaram Ravi,Virender Sharma
-1216540,2020,Sharjah,10-12-2020,RCB,KKR,RCB,bat,normal,0,RCB,82,0,AB de Villiers,Sharjah Cricket Stadium,Richard Illingworth,Krishnamachari Srinivasan,KN Ananthapadmanabhan
-1216528,2020,Dubai (DSC),13-10-2020,SRH,CSK,CSK,bat,normal,0,CSK,20,0,RA Jadeja,Dubai International Cricket Stadium,Anil Chaudhary,Paul Reiffel,Nitin Menon
-1216543,2020,Dubai (DSC),14-10-2020,DC,RR,DC,bat,normal,0,DC,13,0,Anrich Nortje,Dubai International Cricket Stadium,Anil Chaudhary,Nitin Menon,Anil Dandekar
-1216531,2020,Sharjah,15-10-2020,RCB,KXIP,RCB,bat,normal,0,KXIP,0,8,KL Rahul,Sharjah Cricket Stadium,KN Ananthapadmanabhan,Chettithody Shamshuddin,Richard Illingworth
-1216526,2020,Abu Dhabi,16-10-2020,MI,KKR,KKR,bat,normal,0,MI,0,8,Q de Kock,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Virender Sharma,Sundaram Ravi
-1216522,2020,Dubai (DSC),17-10-2020,RR,RCB,RR,bat,normal,0,RCB,0,7,AB de Villiers,Dubai International Cricket Stadium,Anil Chaudhary,Nitin Menon,Paul Reiffel
-1216509,2020,Sharjah,17-10-2020,DC,CSK,CSK,bat,normal,0,DC,0,5,S Dhawan,Sharjah Cricket Stadium,KN Ananthapadmanabhan,Richard Illingworth,Chettithody Shamshuddin
-1216512,2020,Abu Dhabi,18-10-2020,SRH,KKR,SRH,field,tie,0,KKR,0,0,L Ferguson,"Sheikh Zayed Stadium, Abu Dhabi",Pashchim Pathak,Sundaram Ravi,Virender Sharma
-1216517,2020,Dubai (DSC),18-10-2020,MI,KXIP,MI,bat,tie,0,KXIP,0,0,KL Rahul,Dubai International Cricket Stadium,Nitin Menon,Paul Reiffel,Anil Chaudhary
-1216533,2020,Abu Dhabi,19-10-2020,CSK,RR,CSK,bat,normal,0,RR,0,7,JC Buttler,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Virender Sharma,Ulhas Gandhe
-1216546,2020,Dubai (DSC),20-10-2020,KXIP,DC,DC,bat,normal,0,KXIP,0,5,S Dhawan,Dubai International Cricket Stadium,Chettithody Shamshuddin,Richard Illingworth,KN Ananthapadmanabhan
-1216494,2020,Abu Dhabi,21-10-2020,KKR,RCB,KKR,bat,normal,0,RCB,0,8,Mohammed Siraj,"Sheikh Zayed Stadium, Abu Dhabi",Virender Sharma,Sundaram Ravi,Chris Gaffaney
-1216518,2020,Dubai (DSC),22-10-2020,RR,SRH,SRH,field,normal,0,SRH,0,8,MK Pandey,Dubai International Cricket Stadium,Nitin Menon,Paul Reiffel,Anil Chaudhary
-1216521,2020,Sharjah,23-10-2020,CSK,MI,MI,field,normal,0,MI,0,10,TA Boult,Sharjah Cricket Stadium,Chettithody Shamshuddin,Vineet Kulkarni,Richard Illingworth
-1216497,2020,Abu Dhabi,24-10-2020,KKR,DC,DC,field,normal,0,KKR,59,0,CV Varun,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Pashchim Pathak,Sundaram Ravi
-1216498,2020,Dubai (DSC),24-10-2020,KXIP,SRH,SRH,field,normal,0,KXIP,12,0,CJ Jordan,Dubai International Cricket Stadium,Anil Dandekar,Paul Reiffel,Nitin Menon
-1216544,2020,Dubai (DSC),25-10-2020,RCB,CSK,RCB,bat,normal,0,CSK,0,8,RD Gaikwad,Dubai International Cricket Stadium,Chettithody Shamshuddin,Richard Illingworth,KN Ananthapadmanabhan
-1216541,2020,Abu Dhabi,26-10-2020,RR,MI,MI,bat,normal,0,RR,0,8,BA Stokes,"Sheikh Zayed Stadium, Abu Dhabi",Ulhas Gandhe,Virender Sharma,Sundaram Ravi
-1216520,2020,Sharjah,26-10-2020,KKR,KXIP,KXIP,field,normal,0,KXIP,0,8,CH Gayle,Sharjah Cricket Stadium,KN Ananthapadmanabhan,Richard Illingworth,Krishnamachari Srinivasan
-1216524,2020,Dubai (DSC),27-10-2020,SRH,DC,DC,field,normal,0,SRH,88,0,WP Saha,Dubai International Cricket Stadium,Anil Chaudhary,Nitin Menon,Paul Reiffel
-1216499,2020,Abu Dhabi,28-10-2020,MI,RCB,MI,field,normal,0,MI,0,5,AS Yadav,"Sheikh Zayed Stadium, Abu Dhabi",Ulhas Gandhe,Chris Gaffaney,Sundaram Ravi
-1216536,2020,Dubai (DSC),29-10-2020,CSK,KKR,CSK,field,normal,0,CSK,0,6,RD Gaikwad,Dubai International Cricket Stadium,Chettithody Shamshuddin,Richard Illingworth,KN Ananthapadmanabhan
-1216537,2020,Abu Dhabi,30-10-2020,KXIP,RR,RR,field,normal,0,RR,0,7,BA Stokes,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Sundaram Ravi,Pashchim Pathak
-1216535,2020,Dubai (DSC),31-10-2020,DC,MI,MI,field,normal,0,MI,0,9,Ishan Kishan,Dubai International Cricket Stadium,Yeshwant Barde,Paul Reiffel,Anil Chaudhary
-1216502,2020,Sharjah,31-10-2020,RCB,SRH,SRH,field,normal,0,SRH,0,5,Abhishek Sharma,Sharjah Cricket Stadium,KN Ananthapadmanabhan,Krishnamachari Srinivasan,Chettithody Shamshuddin
-1216506,2020,Abu Dhabi,01-11-2020,CSK,KXIP,CSK,field,normal,0,CSK,0,9,RD Gaikwad,"Sheikh Zayed Stadium, Abu Dhabi",Pashchim Pathak,Virender Sharma,Chris Gaffaney
-1216530,2020,Dubai (DSC),01-11-2020,KKR,RR,RR,field,normal,0,KKR,60,0,PJ Cummins,Dubai International Cricket Stadium,Nitin Menon,Paul Reiffel,Anil Chaudhary
-1216505,2020,Abu Dhabi,02-11-2020,DC,RCB,DC,field,normal,0,DC,0,6,Anrich Nortje,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Sundaram Ravi,Virender Sharma
-1216495,2020,Sharjah,03-11-2020,SRH,MI,SRH,field,normal,0,SRH,0,10,S Nadeem,Sharjah Cricket Stadium,Chettithody Shamshuddin,Richard Illingworth,KN Ananthapadmanabhan
-1237177,2020,Dubai (DSC),05-11-2020,DC,MI,DC,field,normal,0,MI,57,0,JJ Bumrah,Dubai International Cricket Stadium,Chris Gaffaney,Nitin Menon,KN Ananthapadmanabhan
-1237178,2020,Abu Dhabi,06-11-2020,RCB,SRH,SRH,field,normal,0,SRH,0,6,KS Williamson,"Sheikh Zayed Stadium, Abu Dhabi",Paul Reiffel,Sundaram Ravi,Virender Sharma
-1237180,2020,Abu Dhabi,08-11-2020,DC,SRH,DC,bat,normal,0,DC,17,0,MP Stoinis,"Sheikh Zayed Stadium, Abu Dhabi",Paul Reiffel,Sundaram Ravi,Chettithody Shamshuddin
-1237181,2020,Dubai (DSC),10-11-2020,DC,MI,DC,bat,normal,0,MI,0,5,TA Boult,Dubai International Cricket Stadium,Chris Gaffaney,Nitin Menon,Anil Chaudhary
+1216492,2020,Abu Dhabi,19-09-2020,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,5,AT Rayudu,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Virender Sharma,Sundaram Ravi
+1216493,2020,Dubai (DSC),20-09-2020,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,field,tie,0,Delhi Capitals,0,0,MP Stoinis,Dubai International Cricket Stadium,Anil Chaudhary,Nitin Menon,Paul Reiffel
+1216534,2020,Dubai (DSC),21-09-2020,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,normal,0,Royal Challengers Bangalore,10,0,YS Chahal,Dubai International Cricket Stadium,Anil Dandekar,Nitin Menon,Anil Chaudhary
+1216496,2020,Sharjah,22-09-2020,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,normal,0,Rajasthan Royals,16,0,SV Samson,Sharjah Cricket Stadium,Chettithody Shamshuddin,Vineet Kulkarni,KN Ananthapadmanabhan
+1216508,2020,Abu Dhabi,23-09-2020,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,normal,0,Mumbai Indians,49,0,RG Sharma,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Sundaram Ravi,Virender Sharma
+1216510,2020,Dubai (DSC),24-09-2020,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,normal,0,Kings XI Punjab,97,0,KL Rahul,Dubai International Cricket Stadium,Anil Chaudhary,Paul Reiffel,Nitin Menon
+1216539,2020,Dubai (DSC),25-09-2020,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,normal,0,Delhi Capitals,44,0,P Shaw,Dubai International Cricket Stadium,KN Ananthapadmanabhan,Richard Illingworth,Krishnamachari Srinivasan
+1216545,2020,Abu Dhabi,26-09-2020,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Kolkata Knight Riders,0,7,Shubman Gill,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Virender Sharma,Sundaram Ravi
+1216527,2020,Sharjah,27-09-2020,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,4,SV Samson,Sharjah Cricket Stadium,Richard Illingworth,Krishnamachari Srinivasan,Chettithody Shamshuddin
+1216547,2020,Dubai (DSC),28-09-2020,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,tie,0,Royal Challengers Bangalore,0,0,AB de Villiers,Dubai International Cricket Stadium,Nitin Menon,Paul Reiffel,Anil Chaudhary
+1216532,2020,Abu Dhabi,29-09-2020,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,normal,0,Sunrisers Hyderabad,15,0,Rashid Khan,"Sheikh Zayed Stadium, Abu Dhabi",Virender Sharma,Sundaram Ravi,Chris Gaffaney
+1216504,2020,Dubai (DSC),30-09-2020,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,normal,0,Kolkata Knight Riders,37,0,Shivam Mavi,Dubai International Cricket Stadium,KN Ananthapadmanabhan,Chettithody Shamshuddin,Vineet Kulkarni
+1216503,2020,Abu Dhabi,10-01-2020,Kings XI Punjab,Mumbai Indians,Kings XI Punjab,field,normal,0,Mumbai Indians,48,0,KA Pollard,"Sheikh Zayed Stadium, Abu Dhabi",Virender Sharma,Sundaram Ravi,Ulhas Gandhe
+1216516,2020,Dubai (DSC),10-02-2020,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,7,0,Priyam Garg,Dubai International Cricket Stadium,Anil Chaudhary,Paul Reiffel,Yeshwant Barde
+1216514,2020,Abu Dhabi,10-03-2020,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,normal,0,Royal Challengers Bangalore,0,8,YS Chahal,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Sundaram Ravi,Pashchim Pathak
+1216515,2020,Sharjah,10-03-2020,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,normal,0,Delhi Capitals,18,0,SS Iyer,Sharjah Cricket Stadium,Vineet Kulkarni,Richard Illingworth,KN Ananthapadmanabhan
+1216538,2020,Sharjah,10-04-2020,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,normal,0,Mumbai Indians,34,0,TA Boult,Sharjah Cricket Stadium,KN Ananthapadmanabhan,Richard Illingworth,Krishnamachari Srinivasan
+1216513,2020,Dubai (DSC),10-04-2020,Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,bat,normal,0,Chennai Super Kings,0,10,SR Watson,Dubai International Cricket Stadium,Anil Dandekar,Nitin Menon,Paul Reiffel
+1216519,2020,Dubai (DSC),10-05-2020,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,normal,0,Delhi Capitals,59,0,AR  Patel,Dubai International Cricket Stadium,Nitin Menon,Yeshwant Barde,Paul Reiffel
+1216511,2020,Abu Dhabi,10-06-2020,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,normal,0,Mumbai Indians,57,0,AS Yadav,"Sheikh Zayed Stadium, Abu Dhabi",Virender Sharma,Sundaram Ravi,Chris Gaffaney
+1216501,2020,Abu Dhabi,10-07-2020,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,10,0,RA Tripathi,"Sheikh Zayed Stadium, Abu Dhabi",KN Ananthapadmanabhan,Richard Illingworth,Chettithody Shamshuddin
+1216542,2020,Dubai (DSC),10-08-2020,Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,bat,normal,0,Sunrisers Hyderabad,69,0,J Bairstow,Dubai International Cricket Stadium,Anil Chaudhary,Nitin Menon,Yeshwant Barde
+1216500,2020,Sharjah,10-09-2020,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,normal,0,Delhi Capitals,46,0,R Ashwin,Sharjah Cricket Stadium,KN Ananthapadmanabhan,Chettithody Shamshuddin,Vineet Kulkarni
+1216523,2020,Abu Dhabi,10-10-2020,Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Kolkata Knight Riders,2,0,KD Karthik,"Sheikh Zayed Stadium, Abu Dhabi",Ulhas Gandhe,Chris Gaffaney,Virender Sharma
+1216525,2020,Dubai (DSC),10-10-2020,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,37,0,V Kohli,Dubai International Cricket Stadium,Anil Chaudhary,Paul Reiffel,Anil Dandekar
+1216507,2020,Dubai (DSC),10-11-2020,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,normal,0,Rajasthan Royals,0,5,R Tewatia,Dubai International Cricket Stadium,Yeshwant Barde,Paul Reiffel,Nitin Menon
+1216529,2020,Abu Dhabi,10-11-2020,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,normal,0,Mumbai Indians,0,5,Q de Kock,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Sundaram Ravi,Virender Sharma
+1216540,2020,Sharjah,10-12-2020,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,normal,0,Royal Challengers Bangalore,82,0,AB de Villiers,Sharjah Cricket Stadium,Richard Illingworth,Krishnamachari Srinivasan,KN Ananthapadmanabhan
+1216528,2020,Dubai (DSC),13-10-2020,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Chennai Super Kings,20,0,RA Jadeja,Dubai International Cricket Stadium,Anil Chaudhary,Paul Reiffel,Nitin Menon
+1216543,2020,Dubai (DSC),14-10-2020,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,normal,0,Delhi Capitals,13,0,Anrich Nortje,Dubai International Cricket Stadium,Anil Chaudhary,Nitin Menon,Anil Dandekar
+1216531,2020,Sharjah,15-10-2020,Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,bat,normal,0,Kings XI Punjab,0,8,KL Rahul,Sharjah Cricket Stadium,KN Ananthapadmanabhan,Chettithody Shamshuddin,Richard Illingworth
+1216526,2020,Abu Dhabi,16-10-2020,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,normal,0,Mumbai Indians,0,8,Q de Kock,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Virender Sharma,Sundaram Ravi
+1216522,2020,Dubai (DSC),17-10-2020,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,normal,0,Royal Challengers Bangalore,0,7,AB de Villiers,Dubai International Cricket Stadium,Anil Chaudhary,Nitin Menon,Paul Reiffel
+1216509,2020,Sharjah,17-10-2020,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,normal,0,Delhi Capitals,0,5,S Dhawan,Sharjah Cricket Stadium,KN Ananthapadmanabhan,Richard Illingworth,Chettithody Shamshuddin
+1216512,2020,Abu Dhabi,18-10-2020,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,tie,0,Kolkata Knight Riders,0,0,L Ferguson,"Sheikh Zayed Stadium, Abu Dhabi",Pashchim Pathak,Sundaram Ravi,Virender Sharma
+1216517,2020,Dubai (DSC),18-10-2020,Mumbai Indians,Kings XI Punjab,Mumbai Indians,bat,tie,0,Kings XI Punjab,0,0,KL Rahul,Dubai International Cricket Stadium,Nitin Menon,Paul Reiffel,Anil Chaudhary
+1216533,2020,Abu Dhabi,19-10-2020,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,normal,0,Rajasthan Royals,0,7,JC Buttler,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Virender Sharma,Ulhas Gandhe
+1216546,2020,Dubai (DSC),20-10-2020,Kings XI Punjab,Delhi Capitals,Delhi Capitals,bat,normal,0,Kings XI Punjab,0,5,S Dhawan,Dubai International Cricket Stadium,Chettithody Shamshuddin,Richard Illingworth,KN Ananthapadmanabhan
+1216494,2020,Abu Dhabi,21-10-2020,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,normal,0,Royal Challengers Bangalore,0,8,Mohammed Siraj,"Sheikh Zayed Stadium, Abu Dhabi",Virender Sharma,Sundaram Ravi,Chris Gaffaney
+1216518,2020,Dubai (DSC),22-10-2020,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,8,MK Pandey,Dubai International Cricket Stadium,Nitin Menon,Paul Reiffel,Anil Chaudhary
+1216521,2020,Sharjah,23-10-2020,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,10,TA Boult,Sharjah Cricket Stadium,Chettithody Shamshuddin,Vineet Kulkarni,Richard Illingworth
+1216497,2020,Abu Dhabi,24-10-2020,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,normal,0,Kolkata Knight Riders,59,0,CV Varun,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Pashchim Pathak,Sundaram Ravi
+1216498,2020,Dubai (DSC),24-10-2020,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Kings XI Punjab,12,0,CJ Jordan,Dubai International Cricket Stadium,Anil Dandekar,Paul Reiffel,Nitin Menon
+1216544,2020,Dubai (DSC),25-10-2020,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,normal,0,Chennai Super Kings,0,8,RD Gaikwad,Dubai International Cricket Stadium,Chettithody Shamshuddin,Richard Illingworth,KN Ananthapadmanabhan
+1216541,2020,Abu Dhabi,26-10-2020,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,normal,0,Rajasthan Royals,0,8,BA Stokes,"Sheikh Zayed Stadium, Abu Dhabi",Ulhas Gandhe,Virender Sharma,Sundaram Ravi
+1216520,2020,Sharjah,26-10-2020,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,normal,0,Kings XI Punjab,0,8,CH Gayle,Sharjah Cricket Stadium,KN Ananthapadmanabhan,Richard Illingworth,Krishnamachari Srinivasan
+1216524,2020,Dubai (DSC),27-10-2020,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,normal,0,Sunrisers Hyderabad,88,0,WP Saha,Dubai International Cricket Stadium,Anil Chaudhary,Nitin Menon,Paul Reiffel
+1216499,2020,Abu Dhabi,28-10-2020,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,normal,0,Mumbai Indians,0,5,AS Yadav,"Sheikh Zayed Stadium, Abu Dhabi",Ulhas Gandhe,Chris Gaffaney,Sundaram Ravi
+1216536,2020,Dubai (DSC),29-10-2020,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,6,RD Gaikwad,Dubai International Cricket Stadium,Chettithody Shamshuddin,Richard Illingworth,KN Ananthapadmanabhan
+1216537,2020,Abu Dhabi,30-10-2020,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,field,normal,0,Rajasthan Royals,0,7,BA Stokes,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Sundaram Ravi,Pashchim Pathak
+1216535,2020,Dubai (DSC),31-10-2020,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,normal,0,Mumbai Indians,0,9,Ishan Kishan,Dubai International Cricket Stadium,Yeshwant Barde,Paul Reiffel,Anil Chaudhary
+1216502,2020,Sharjah,31-10-2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,5,Abhishek Sharma,Sharjah Cricket Stadium,KN Ananthapadmanabhan,Krishnamachari Srinivasan,Chettithody Shamshuddin
+1216506,2020,Abu Dhabi,01-11-2020,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,field,normal,0,Chennai Super Kings,0,9,RD Gaikwad,"Sheikh Zayed Stadium, Abu Dhabi",Pashchim Pathak,Virender Sharma,Chris Gaffaney
+1216530,2020,Dubai (DSC),01-11-2020,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,normal,0,Kolkata Knight Riders,60,0,PJ Cummins,Dubai International Cricket Stadium,Nitin Menon,Paul Reiffel,Anil Chaudhary
+1216505,2020,Abu Dhabi,02-11-2020,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,normal,0,Delhi Capitals,0,6,Anrich Nortje,"Sheikh Zayed Stadium, Abu Dhabi",Chris Gaffaney,Sundaram Ravi,Virender Sharma
+1216495,2020,Sharjah,03-11-2020,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,10,S Nadeem,Sharjah Cricket Stadium,Chettithody Shamshuddin,Richard Illingworth,KN Ananthapadmanabhan
+1237177,2020,Dubai (DSC),05-11-2020,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,normal,0,Mumbai Indians,57,0,JJ Bumrah,Dubai International Cricket Stadium,Chris Gaffaney,Nitin Menon,KN Ananthapadmanabhan
+1237178,2020,Abu Dhabi,06-11-2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,normal,0,Sunrisers Hyderabad,0,6,KS Williamson,"Sheikh Zayed Stadium, Abu Dhabi",Paul Reiffel,Sundaram Ravi,Virender Sharma
+1237180,2020,Abu Dhabi,08-11-2020,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,normal,0,Delhi Capitals,17,0,MP Stoinis,"Sheikh Zayed Stadium, Abu Dhabi",Paul Reiffel,Sundaram Ravi,Chettithody Shamshuddin
+1237181,2020,Dubai (DSC),10-11-2020,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,normal,0,Mumbai Indians,0,5,TA Boult,Dubai International Cricket Stadium,Chris Gaffaney,Nitin Menon,Anil Chaudhary
